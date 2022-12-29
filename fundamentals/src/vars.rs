@@ -19,4 +19,12 @@ pub fn run() {
         "My name is {} and I am {}, my lucky number is {}",
         name, age, lucky_number
     );
+
+    // Define constant - i32 = integer 32
+    const ID: i32 = 001;
+    println!("ID: {}", ID);
+
+    // Assign multiple vars
+    let ( my_name, my_age ) = ("Felipe", 18);
+    println!("{} is {}", my_name, my_age);
 }
