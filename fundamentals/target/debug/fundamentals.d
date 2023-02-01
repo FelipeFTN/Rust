@@ -1,1 +1,0 @@
-/Users/ftenorio/Desktop/Rust/fundamentals/target/debug/fundamentals: /Users/ftenorio/Desktop/Rust/fundamentals/src/main.rs /Users/ftenorio/Desktop/Rust/fundamentals/src/print.rs /Users/ftenorio/Desktop/Rust/fundamentals/src/vars.rs
